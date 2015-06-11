@@ -4,6 +4,7 @@
   "dependencies": {
     "bluebird": "~2.9.25",
     "da-helpers": "git://github.com/data-avail/da-helpers.git",
+    "moment": "^2.10.3",
     "request": "^2.57.0"
   },
   "scripts": {

@@ -1,5 +1,9 @@
 # Trader micro service
 
+## Description
+
+Per
+
 ## Project structure
 
 + /src - sources, type script  
